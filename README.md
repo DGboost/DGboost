@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=DGboost"/>
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=iuboost8)](https://solved.ac/iuboost8/)
   
 ## 👋 Dong_Gun 👋 
   
