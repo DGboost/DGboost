@@ -19,8 +19,8 @@
 <div align="center">
   
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DGboost&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8"/>
+
   
-### 🛠 SKILL 🛠
  </br>
 <p align="center">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
