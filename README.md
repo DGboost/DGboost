@@ -1,11 +1,9 @@
 <div align="left">
   </br>
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=FHDUFHDU%20/%20LUCAS&fontSize=50&animation=fadeIn)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=GRIT%20&fontSize=50&animation=fadeIn)
 
   # 이동건 🏅
-
-  ### [JUST DO IT] 
 
   나는 백 가지 발차기를 쓸 줄 아는 사람은 두렵지 않다. </br>
   하지만 한 가지 발차기를 백 번 한 사람은 무섭다.</br>
