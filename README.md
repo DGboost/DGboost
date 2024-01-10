@@ -5,7 +5,7 @@
 
   # 이동건 🏅
 
-  ### Backend Engineer [FHDUFHDU / LUCAS] 
+  ### [JUST DO IT] 
 
   나는 백 가지 발차기를 쓸 줄 아는 사람은 두렵지 않다. </br>
   하지만 한 가지 발차기를 백 번 한 사람은 무섭다.</br>
