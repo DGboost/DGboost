@@ -34,13 +34,12 @@
   </br>
 
   # 📈 STATS
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fhdufhdu)](https://solved.ac/fhdufhdu/) </br>
-  ![fhdufhdu's GitHub stats](https://github-readme-stats.vercel.app/api?username=fhdufhdu&show_icons=true&theme=radical)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=iuboost8)](https://solved.ac/iuboost8/) </br>
+  ![fhdufhdu's GitHub stats](https://github-readme-stats.vercel.app/api?username=DGboost&show_icons=true&theme=radical)
 
   <div align="right">
       </br>
       </br>
-      <span>📩 [fhdufhdu@gmail.com]</span></br>
-      <span>🏢 [TUNiB Backend Engineer]</span></br>
+      <span>📩 [iuboost8@gmail.com]</span></br>
   </div>
 </div>
