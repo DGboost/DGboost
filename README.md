@@ -30,7 +30,7 @@
   </br>
 
   # 📈 STATS
-  // [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=iuboost8)](https://solved.ac/iuboost8/) </br>
+  <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=iuboost8)](https://solved.ac/iuboost8/) --></br>
   ![fhdufhdu's GitHub stats](https://github-readme-stats.vercel.app/api?username=DGboost&show_icons=true&theme=radical)
 
   <div align="right">
